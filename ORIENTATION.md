@@ -16,7 +16,7 @@ In order to make the best use of the time during the event, we have prepared a s
 This is because we know that setting up the proper environment may take some time, and it may happen that you would need help.
 We can help you get started before the workshop, but during the workshop we really want to concentrate on the use of open data.  We will do our best in order to have all technicalities settled down in advance.
 
-Please note that all pre-exercises <strong style="color: red;">require you to submit some very simple work assignments</strong>.  This can be done using our [assignment form](https://forms.gle/7YYRv6ZCTfRYiocr7); you must sign in and <strong style="color: red;">click on the submit button</strong> in order to save your work.  You can come back to edit the form at any time.
+Please note that all pre-exercises <strong style="color: red;">require you to submit some very simple work assignments</strong>.  This can be done using our [assignment form](https://docs.google.com/forms/d/e/1FAIpQLSfinzqqOt3tNOchikFQRoA4EYnJXuWOV1JBWTBCPnELM-86AA/viewform); you must sign in and <strong style="color: red;">click on the submit button</strong> in order to save your work.  You can come back to edit the form at any time.
 
 Please add yourself to the pre-exercises Mattermost channels if you need assistance and/or are willing to help out or contribute to the discussion:
 
@@ -26,8 +26,7 @@ Please add yourself to the pre-exercises Mattermost channels if you need assista
 * [Cloud pre-exercise channel](https://mattermost.web.cern.ch/cmsodws2023/channels/cloud-pre-exercise)
 * [All pre-learning channel](https://mattermost.web.cern.ch/cmsodws2023/channels/pre-learning)
 
-<!--
-## Workshop strategy
+<!--## Workshop strategy
 
 During the workshop you will be introduced to examples on how to access physical objects, like electrons, muons and jets, and their properties.  For this, a basic understanding of `ROOT` and `CMSSW` is needed.  Legacy releases of these frameworks are most efficiently preserved using containers, like `Docker`.  You will also learn about triggers and how to determine the luminosity for an analysis, which will complete the basics about extracting the needed information from our open data.  After this a brief analysis example, using pre-processed Run 1 data, will be presented.
 
@@ -42,4 +41,4 @@ Please subscribe to the mattermost channels **that will be released later** for 
 * [Run 2 analysis lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/run-ii-analysis-lesson)
 * [Cloud computing lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/cloud-computing-lesson)
 * [Run 2 analysis with ADL lesson](https://mattermost.web.cern.ch/cmsodws2022/channels/run-ii-analysis-with-adl-lesson)
---!<
+-->
